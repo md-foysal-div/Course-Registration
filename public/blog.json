@@ -1,0 +1,108 @@
+
+[
+    {
+   
+        "id": 1,
+        "cover": "https://i.ibb.co/H4NwPyL/Rectangle-2-4.png",
+        "title": "The Adventure Begins",
+        "author": "John Doe",
+        "author_img": "https://example.com/authors/johndoe.jpg",
+        "posted_date": "2023-09-14",
+        "reading_time": "2 hours",
+        "price": 19.99,
+        "credit":20
+
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/rwWW4sb/Rectangle-2-3.png",
+        "title": "Mystery of the Lost Key",
+        "author": "Jane Smith",
+        "author_img": "https://example.com/authors/janesmith.jpg",
+        "posted_date": "2023-09-13",
+        "reading_time": "1.5 hours",
+        "price": 14.99,
+        "credit":11
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/H4NwPyL/Rectangle-2-4.png",
+        "title": "Science Explained",
+        "author": "Michael Johnson",
+        "author_img": "https://example.com/authors/michaeljohnson.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": "3 hours",
+        "price": 24.99,
+        "credit":8
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/pvqDDS8/Rectangle-3-1.png",
+        "title": "Cooking Masterclass",
+        "author": "Sarah Williams",
+        "author_img": "https://example.com/authors/sarahwilliams.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": "2.5 hours",
+        "price": 29.99,
+        "credit":9
+    },
+    {
+
+        "id": 5,
+        "cover": "https://i.ibb.co/BypXYvt/Rectangle-2-5.png",
+        "title": "History Revisited",
+        "author": "David Brown",
+        "author_img": "https://example.com/authors/davidbrown.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": "2 hours",
+        "price": 17.99,
+        "credit":5
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/z40fpBf/Rectangle-2.png",
+        "title": "Art of Creativity",
+        "author": "Emily White",
+        "author_img": "https://example.com/authors/emilywhite.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": "1.5 hours",
+        "price": 22.99,
+        "credit":7
+    },
+    {
+       
+        "id": 7,
+        "cover": "https://i.ibb.co/thnhrYr/Rectangle-2-1.png",
+        "title": "Travel Chronicles",
+        "author": "Mark Davis",
+        "author_img": "https://example.com/authors/markdavis.jpg",
+        "posted_date": "2023-09-08",
+        "reading_time": "3 hours",
+        "price": 27.99,
+        "credit":10
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/QFpv98B/Rectangle-2-6.png",
+        "title": "The Science of Nature",
+        "author": "Laura Green",
+        "author_img": "https://example.com/authors/lauragreen.jpg",
+        "posted_date": "2023-09-07",
+        "reading_time": "2 hours",
+        "price": 18.99,
+        "credit":12
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/rcCBBbZ/Rectangle-3.png",
+        "title": "Thriller: The Unknown",
+        "author": "Robert Black",
+        "author_img": "https://example.com/authors/robertblack.jpg",
+        "posted_date": "2023-09-06",
+        "reading_time": "2.5 hours",
+        "price": 15.99,
+        "credit":25
+    }
+]
+
+  
